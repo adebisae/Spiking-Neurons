@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 %   This MATLAB file generates figure 1 in the paper by
 %               Izhikevich E.M. (2004)
 %   Which Model to Use For Cortical Spiking Neurons?
